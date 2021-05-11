@@ -28,8 +28,8 @@ class Result {
      *  2. INTEGER k
      */
     public static String findNumber(List<Integer> arr, int k) {
-        String result = "NO";
-        for (int i = 0; i < arr.size(); i++) {
+        String result = "NO YEH";
+        for (int i = 0; i < arr.size(); i++) {   
             if (arr.get(i) == k) {
                 result = "YES";
             }
