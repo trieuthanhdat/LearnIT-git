@@ -1,0 +1,14 @@
++++++++++++Users+++++++++++
+ Username= newone
+ Firstname=dat, Lastname=tnasd
+ Password=thanhdat
+ Email=asdkfjk@gmail.com
+ Phone=128327372323
+
++++++++++++Users+++++++++++
+ Username= asdhasdf
+ Firstname=asd, Lastname=asd
+ Password=ansdsd
+ Email=asdfhj@gmail.com
+ Phone=12382328323
+
